@@ -1,6 +1,6 @@
 {
     "lifetime_primary": true,
-    "paywall_dismiss": 5,
+    "paywall_dismiss": 2,
     "version": 1,
-    "show_subscription": false
+    "show_subscription": true
   }
