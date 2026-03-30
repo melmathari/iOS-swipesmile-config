@@ -2,5 +2,5 @@
     "lifetime_primary": true,
     "paywall_dismiss": 5,
     "version": 1,
-    "show_subscription": true
+    "show_subscription": false
   }
