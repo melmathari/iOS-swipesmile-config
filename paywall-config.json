@@ -1,5 +1,6 @@
 {
     "paywall_mode": "lifetime_primary",
+    "version": 1,
     "show_trial": false,
     "show_subscription": true
   }
