@@ -1,6 +1,11 @@
 {
-    "lifetime_primary": false,
-    "paywall_dismiss": 2,
-    "version": 1,
-    "show_subscription": true
+  "lifetime_primary": false,
+  "paywall_dismiss": 2,
+  "version": 1,
+  "show_subscription": true,
+  "ai_models": {
+    "real_esrgan": true,
+    "photo2_cartoon": true,
+    "stable_llve": true
   }
+}
