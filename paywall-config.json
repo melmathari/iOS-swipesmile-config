@@ -5,7 +5,7 @@
   "show_subscription": true,
   "ai_models": {
     "real_esrgan": true,
-    "photo2_cartoon": true,
+    "photo2_cartoon": false,
     "stable_llve": true
   }
 }
