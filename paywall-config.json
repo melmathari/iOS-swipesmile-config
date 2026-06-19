@@ -1,8 +1,8 @@
 {
-  "lifetime_primary": false,
+  "lifetime_primary": true,
   "paywall_dismiss": 3,
   "version": 1,
-  "show_subscription": true,
+  "show_subscription": false,
   "ai_models": {
     "real_esrgan": true,
     "photo2_cartoon": false,
