@@ -3,6 +3,7 @@
   "paywall_dismiss": 3,
   "version": 1,
   "show_subscription": true,
+  "show_lifetime": true,
   "ai_models": {
     "real_esrgan": true,
     "photo2_cartoon": false,
