@@ -6,7 +6,7 @@
   "show_lifetime": true,
   "ai_models": {
     "real_esrgan": true,
-    "photo2_cartoon": false,
+    "photo2_cartoon": true,
     "stable_llve": true
   }
 }
